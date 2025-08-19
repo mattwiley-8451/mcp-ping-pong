@@ -1,0 +1,13 @@
+{
+  "name": "mcp-ping-pong",
+  "version": "1.0.0",
+  "description": "Simple MCP server with ping tool",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.0"
+  }
+}
